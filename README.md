@@ -2,6 +2,7 @@
 
 Workshop prático de introdução ao Git, usando pequenos exemplos em JavaScript como material para versionar. Você vai do `git init` até um Pull Request aprovado, com uma Actions acompanhando o seu progresso.
 
+
 ## Pré-requisitos
 
 - Git 2.23 ou mais recente (`git --version`)
